@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+.barrita{
+    display: block;
+    background-color: gainsboro;
+    color: whitesmoke;
+   padding: 10px 140px;
+   text-decoration: none;
+   
+}
+
+
+
